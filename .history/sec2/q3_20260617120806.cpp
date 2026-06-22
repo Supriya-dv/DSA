@@ -1,0 +1,1 @@
+Take a character and print it.

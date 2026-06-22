@@ -1,0 +1,11 @@
+// Take a character and print it.
+#include <iostream>
+using namespace std;
+int main (){'
+    char grade;
+
+   
+
+    cout  << endl;
+
+}

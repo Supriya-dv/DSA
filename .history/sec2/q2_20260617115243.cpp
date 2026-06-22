@@ -1,0 +1,1 @@
+/Take two integers and print their product.

@@ -1,0 +1,1 @@
+Take principal, rate, and time and calculate simple interest.

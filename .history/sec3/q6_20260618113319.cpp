@@ -1,0 +1,1 @@
+// Check whether a number is divisible by either 3 or 5.

@@ -1,0 +1,20 @@
+// Palindrome Number
+#include<iostream>
+using namespace std;
+int main(){
+    int n,palindrome=0;
+    cout << "Enter a Number:";
+    cin >> n;
+    while(n!=0){
+    int digit = n%10;
+    palindrome = palindrome * 10 + digit; 
+        n= n / 10;
+    
+    }
+    cout << "P Number: "<< palindrome<< endl;
+
+    return 0;
+
+       
+
+}
